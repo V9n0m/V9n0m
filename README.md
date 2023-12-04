@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- 右侧图表 -->
-<div>
+
  <img src="https://github-readme-stats.vercel.app/api?username=V9n0m&show_icons=true" alt="logo" width=38%  align="right" style="margin: 5px; margin-bottom: 20px;" />
 <!-- 活动图 -->
+<div align = "left">
  <img src = "https://github.com/V9n0m/V9n0m/assets/81289456/f2e93bc3-0982-4825-8b3f-4ec1cb455e25" width = 60%  align = "left"/>
 </div>
 
