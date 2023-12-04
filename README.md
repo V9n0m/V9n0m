@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 
 <!-- 活动图 -->
-<br>
-You are my ![Visitor Count](https://profile-counter.glitch.me/V9n0m/count.svg) visitor .**Thank you! 😘😘**
+
 <!-- 常用语言统计
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V9n0m&layout=compact&theme=tokyonight)
  -->
