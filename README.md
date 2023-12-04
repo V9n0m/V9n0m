@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <figure class = "half">
-<img src="https://github.com/V9n0m/V9n0m/assets/81289456/f2e93bc3-0982-4825-8b3f-4ec1cb455e25" width="500" align="left" /><img src="https://github-readme-stats.vercel.app/api?username=V9n0m&show_icons=true" alt="logo" width="400"  align="right"/>
+<img src="https://github.com/V9n0m/V9n0m/assets/81289456/f2e93bc3-0982-4825-8b3f-4ec1cb455e25" width="550" align="left" /><img src="https://github-readme-stats.vercel.app/api?username=V9n0m&show_icons=true" alt="logo" width="400"  align="right"/>
 </figure >
 <!-- 活动图 -->
 
