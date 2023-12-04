@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi I'm V9n0m 👋
 
+一位很业余的网络安全爱好者，平时会学习一下各种编程语言，偶尔挖洞。Keep Loving!!!🤟
 <!--
 **V9n0m/V9n0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +17,8 @@ Here are some ideas to get you started:
 -->
 <!-- 右侧图表 -->
 <img src="https://github-readme-stats.vercel.app/api?username=V9n0m&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+### 
+You are my ![Visitor Count](https://profile-counter.glitch.me/V9n0m/count.svg) visitor,Thank You!😘😘
 
 
