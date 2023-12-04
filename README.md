@@ -31,7 +31,5 @@ Here are some ideas to get you started:
  -->
 <!-- 访问量 -->
 
-&emsp;&emsp;You are my ![Visitor Count](https://profile-counter.glitch.me/V9n0m/count.svg) visitor .
-
-&emsp;&emsp;**Thank you! 😘😘**
+You are my ![Visitor Count](https://profile-counter.glitch.me/V9n0m/count.svg) visitor .**Thank you! 😘😘**
 
