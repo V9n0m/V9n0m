@@ -17,8 +17,14 @@ Here are some ideas to get you started:
 -->
 <!-- 右侧图表 -->
 <img src="https://github-readme-stats.vercel.app/api?username=V9n0m&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<!-- 活动图 -->
 
-### 
+
+
+<!-- 常用语言统计
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V9n0m&layout=compact&theme=tokyonight)
+ -->
+<!-- 访问量 -->
 You are my ![Visitor Count](https://profile-counter.glitch.me/V9n0m/count.svg) visitor,Thank You!😘😘
 
 
